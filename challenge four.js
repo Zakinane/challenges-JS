@@ -1,4 +1,4 @@
-let input = "August"; // to test
+let input = "Augustgit "; // to test
 
 function checkSeason(season) {
   switch (season) {
